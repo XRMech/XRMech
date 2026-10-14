@@ -13,7 +13,7 @@ Before that I built HoloLens 2 inspection tools and VR alignment and tracking sa
 - **[HablaTranslate](https://github.com/XRMechSolutions/HablaTranslate)**: self-hosted, real-time Spanish-English speech translator. WhisperX, Silero VAD, Pyannote diarization and a local LLM via Ollama.
 - **[Scene-Recorder](https://github.com/XRMech/Scene-Recorder)** + **[SceneStreamServer](https://github.com/XRMech/SceneStreamServer)**: Unity multi-camera capture with native C++ encoding on Windows and Android, streamed to a Node.js server that builds videos with FFmpeg. Prototype, paused.
 - **[Entrain](https://github.com/XRMechSolutions/Entrain)**: binaural beats and soundscape PWA, Svelte 5 + TypeScript + Web Audio. [Try it live](https://xrmechsolutions.github.io/Entrain/).
-- **[NAS-Duplicate-Cleanup-Tool](https://github.com/XRMechSolutions/NAS-Duplicate-Cleanup-Tool)**: duplicate and near-duplicate file finder (SHA-256 + perceptual hashing) with quarantine and undo.
+- **[NAS-Duplicate-Cleanup-Tool](https://github.com/XRMechSolutions/NAS-Duplicate-Cleanup-Tool)**: duplicate finder and AI photo organizer. Exact and near-duplicate detection (SHA-256 + perceptual hashing), plus on-device vision models (YOLOv8, CLIP, InsightFace face recognition, EasyOCR) that summarize image contents, identify people across family photos and suggest tags. Quarantine and undo, never auto-deletes.
 
 Most of my client work and several larger projects are private. The scientific imaging app for a coral research lab, the StoryTime Language app on Google Play, and ESP32 firmware are all described on LinkedIn.
 
