@@ -1,4 +1,4 @@
-## Hi, I'm Clint 👋
+## Clint Campbell
 
 **Perception and computer vision engineer · XR (AR/VR) · On-device ML**
 Unity · C++ · C# · Python · Android (Kotlin, NDK) · OpenXR · StereoKit · OpenCV · ONNX · TensorFlow Lite
@@ -7,7 +7,7 @@ I build software that runs on real hardware. Most recently that's been AR headse
 
 Before that I built HoloLens 2 inspection tools and VR alignment and tracking safety systems, and before that I spent 8 years at Boeing in robotics programming and manufacturing R&D (OpenCV inspection work and a patent).
 
-📅 **Available from November 2026** for perception, computer vision, XR or edge ML work. Remote, employee or contractor. US citizen living in Spain (CET), with flexible overlap into US Pacific hours.
+**Available from November 2026** for perception, computer vision, XR or edge ML work. Remote, employee or contractor. US citizen living in Spain (CET), with flexible overlap into US Pacific hours.
 
 ### Public work here
 - **[HablaTranslate](https://github.com/XRMechSolutions/HablaTranslate)**: self-hosted, real-time Spanish-English speech translator. WhisperX, Silero VAD, Pyannote diarization and a local LLM via Ollama.
